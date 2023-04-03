@@ -1,5 +1,3 @@
-Automated Cloud Services Assignment 1
-
 Author- Liam Hopkins
 Date- 05/03/2021
 
